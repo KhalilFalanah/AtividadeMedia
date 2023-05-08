@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683568174 source:d:\users\khalil.falanah\desktop\khalil\khalil_c\fixação2\atividademedia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
